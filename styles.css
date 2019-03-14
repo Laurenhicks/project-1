@@ -69,12 +69,21 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 25%;
+  border: 3px solid black;
   transition: all .5s;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
+}
+
+main .silas {
+  margin-top: 25px;
+  width: 200px;
+  height: 200px;
+  border-radius: 25%;
+  border: 3px solid black;
+  transition: all .5s;
 }
 .tag {
   background-color: #efefef;
@@ -201,6 +210,4 @@ a.social:hover {
     font-size: 1.3em;
     max-width: 1200px;
     margin: 40px auto;
-  }
-
 }
