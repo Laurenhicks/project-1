@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: white;
 }
 a:hover {
   color: #6633ff;
@@ -86,15 +86,15 @@ main .silas {
   transition: all .5s;
 }
 .tag {
-  background-color: #efefef;
-  color: black;
+  background-color: purple;
+  color: yellow;
   padding: 10px;
   border-radius: 50px;
   display: table;
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
+  background-color: purple;
   color: yellow;
 }
 .card {
@@ -119,14 +119,14 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: black;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: purple;
 }
 
 footer {
