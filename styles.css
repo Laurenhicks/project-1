@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'roboto', sans-serif;
   color: #222;
   background: #f7f5f0;
 }
@@ -71,10 +71,10 @@ header .profile-image {
   height: 150px;
   border-radius: 25%;
   border: 3px solid black;
-  transition: all .5s;
+  transition: all .10s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(10deg);
 }
 
 main .silas {
@@ -92,6 +92,7 @@ main .silas {
   border-radius: 50px;
   display: table;
   margin: 10px auto;
+  font-family: 'comic sans ms';
 }
 .location {
   background-color: purple;
