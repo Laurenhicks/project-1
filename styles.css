@@ -130,6 +130,15 @@ ul.skills {
   background: purple;
 }
 
+.laptop {
+  margin-top: 25px;
+  width: 300px;
+  height: 300px;
+  border-radius: 25%;
+  border: 3px solid black;
+  transition: all .5s;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
