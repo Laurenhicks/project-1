@@ -8,8 +8,8 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'roboto', sans-serif;
-  color: #222;
-  background: #f7f5f0;
+  color: black;
+  background: yellow;
 }
 /* Link Styles */
 
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/swamp2.jpg') no-repeat top center ;
+  background: url('images/background.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -142,7 +142,7 @@ ul.skills {
   margin-top: 25px;
   width: 300px;
   height: 300px;
-  border-radius: 25%;
+  border-radius: 50%;
   border: 3px solid black;
   transition: all .5s;
 }
