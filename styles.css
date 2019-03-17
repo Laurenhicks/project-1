@@ -85,6 +85,14 @@ main .silas {
   border: 3px solid black;
   transition: all .5s;
 }
+main .frasier {
+  margin-top: 25px;
+  width: 200px;
+  height: 200px;
+  border-radius: 25%;
+  border: 3px solid black;
+  transition: all .5s;
+}
 .tag {
   background-color: purple;
   color: yellow;
